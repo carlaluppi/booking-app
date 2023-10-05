@@ -1,0 +1,35 @@
+{
+    "hotels": [
+      {
+        "id": 1,
+        "name": "Hotel Sunrise Paradise",
+        "description": "Un lujoso hotel frente al mar con vistas espectaculares y comodidades de primera clase.",
+        "img": "/img/hotel1.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Hotel Montaña Verde",
+        "description": "Un refugio acogedor en medio de la naturaleza, perfecto para amantes de la montaña.",
+        "img": "/img/hotel2.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Hotel Oasis del Mar",
+        "description": "Un retiro tropical con playas de arena blanca, aguas cristalinas y restaurantes de clase mundial.",
+        "img": "/img/hotel3.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Hotel Elegancia Urbana",
+        "description": "Un hotel de cuatro estrellas en el corazón de la ciudad, cerca de tiendas y lugares de interés.",
+        "img": "/img/hotel4.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Hotel Serenidad Costera",
+        "description": "Un acogedor hotel en la costa con vistas panorámicas y acceso directo a la playa.",
+        "img": "/img/hotel5.jpeg"
+      }
+    ]
+  }
+  

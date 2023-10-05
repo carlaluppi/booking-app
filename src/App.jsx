@@ -1,9 +1,18 @@
-function App() {
+import {QueryClient, QueryClientProvider} from "@tanstack/react-query";
+import {Route, Switch} from "wouter";
+import HotelList from "./components/HotelList"
 
+const client = new QueryClient();
+
+function App() {
 
   return (
     <>
-      <h1>Booking App</h1>
+      <QueryClientProvider client={client}>
+        <Switch>
+          <Route path="/" component={HotelList}/>
+        </Switch>
+      </QueryClientProvider>
     </>
   )
 }

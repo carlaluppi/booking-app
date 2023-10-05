@@ -24,11 +24,20 @@ npm
 npm install vite@latest
 ```
 ```
-npm install  (instala dependencias de react y react-dom) 
+npm install 
 ```
 
 ```
 npm i @tanstack/react-query react-hook-form react-hot-toast zustand wouter  
+```
+```
+npm install @mui/material @emotion/react @emotion/styled
+```
+```
+npm install @fontsource/roboto @mui/icons-material
+```
+```
+npm install json-server
 ```
 
 ## Despliegue 📦
@@ -42,6 +51,7 @@ npm i @tanstack/react-query react-hook-form react-hot-toast zustand wouter
 * [React Hook Form](https://react-hook-form.com/) - Manejo y contral de los formularios
 * [Wouter](https://www.npmjs.com/package/wouter) - Enrutamiento
 * [React Hot Toast](https://react-hot-toast.com/) - Notificaciones
+* [Material Ui](https://mui.com/material-ui) - Biblioteca de componentes de interfaz 
 
 
 ## Autores ✒️
